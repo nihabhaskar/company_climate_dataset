@@ -1,0 +1,53 @@
+company,headquarters_country,usa_state,num_employees,net_worth,ghg_emissions_metric_tons,ghg_emissions_year,water_withdrawal_cubic_meters,water_withdrawal_year,avg_annual_PUE,percent_waste_diverted,ghg_emissions_datacenters_metric_tons,percent_renewable_energy,money_in_renewables_USdollars,waste_generated_metric_tons,waste_generated_year,highest_leed_certification,ev_charging_ports,carbon_neutral_shipments,percent_product_recycled_materials,reported_raw_materials,conflict_free_supply_change
+Alphabet (Google),United States,California,150028,"1,453.76",9071847.4,2021,11365.225,2021,1.1,81,0,100,3300000000,28864,2021,platinum,yes,yes,100,"cobalt, tantalum, tin, tungsten",not sure
+Microsoft,United States,Washington,182268,"1,893.24",123704,2021,7657,2020,1.125,90,16000000,100,200000000,3189,2021,platinum,yes,some,61,"graphite, silicon, gold, tantalum, tin, tungsten",yes
+Meta (Facebook),United States,California,71970,517.69,7550000,2020,3726000,2021,1.1,unsure,2756000,100,7400000000,unsure,null,platinum,yes,some,unsure,"lithium, gold, tantalum, tin, tungsten",no
+Tesla,United States,Texas,70757,734.97,1954000,2021,2874904,2020,null,null,null,100,unsure,32877.282,2021,silver,yes,some,unsure,"cobalt, lithium, graphite, silicon, aluminum, tantalum, tin, tungsten, nickel, manganese, iron",unsure
+Apple,United States,California,154000,"2,223.03",22600000,2020,5850817.83,2020,null,93,1177189,100,4700000000,16556.122,2020,platinum,yes,yes,> 0,"cobalt, lithium, silicon, gold, silver, aluminum, tantalum, tin, tungsten, neodymium, praseodymium, dysprosium, copper, natural graphite, bismuth, boron, cerium, chromium, mercury, lead, iron",some
+Amazon,United States,Washington,"170,000","1,091.91",unsure,unsure,480000000,2020,1.7,null,null,65,unsure,272155.422,2020,platinum,yes,some,unsure,"cobalt, silicon, silver, aluminum, tantalum, tungsten",no
+Taiwan Semiconductor Manufacturing Company,Taiwan,null,56831,410.00,7430000,2020,77000000,2021,null,null,null,7.6,44000000,unsure,null,platinum,yes,no,unsure,"cobalt, lithium, graphite, silicon, gold, silver, aluminum, tantalum, tin, tungsten",unsure
+Nvidia,United States,California,22473,493.71,105621,2021,359901,2019,null,null,null,unsure,unsure,2778,2021,gold,yes,no,unsure,"gold, aluminum, tin, tungsten, copper",no
+Tencent,China,null,"112,771",431.30,5111000,2021,3635172.35,2020,1.25,unsure,5100000,> 0,unsure,unsure,null,gold,yes,no,unsure,"cobalt, lithium, graphite",no
+Samsung,South Korea,null,287439,300.00,273063000,2020,142294,null,null,null,null,100,not sure,1181741,2020,gold,yes,unsure,unsure,"cobalt, silicon, gold, tantalum, tin, tungsten",yes
+Alibaba,China,null,251462,237.72,9514000,2020,unsure,2021,1.13,unsure,unsure,unsure,unsure,unsure,null,unsure,yes,no,unsure,null,no
+Broadcom,United States,California,20000,237.89,50988,2021,2501573.435,2021,null,null,null,unsure,unsure,8688.108,2021,silver,yes,unsure,unsure,unsure,unsure
+Cisco,United States,California,79500,173.31,174494,2021,2902,2021,1.05,99.9,null,85,100000000,5863,2020,gold,yes,yes,unsure,"cobalt, lithium, gold, tantalum, tungsten",yes
+ASML Holding,Netherlands,null,32016,219.21,883900,2021,1041000,null,null,null,null,92,unsure,5878,2021,unsure,yes,some,unsure,"cobalt, gold, tantalum, tin, tungsten",no
+Oracle,United States,Texas,132000,178.87,369300,2020,unsure,null,1.5,80,unsure,59,unsure,621.4229077,2020,platinum,yes,no,null,null,null
+Adobe,United States,California,25988,183.56,554125.676,2019,unsure,2020,unsure,92,26238,> 0,unsure,unsure,null,certified,yes,null,null,null,yes
+Intel,United States,California,121100,171.78,2890000,2020,62736042,null,1.06,unsure,unsure,82,45000000,375574.482,2020,gold,yes,no,unsure,"cobalt, lithium, graphite, silicon, gold, silver, aluminum, tantalum, tin, tungsten, copper, nickel",no
+Qualcomm,United States,California,45000,146.24,3943605,2021,3514127.57,2020,1.18,77,unsure,50,36000000,2948,2021,silver,yes,unsure,unsure,"cobalt, silicon, gold, tantalum, tin, tungsten, germanium, copper",no
+AMD,United States,California,22500,156.65,29916,2020,151000,2020,null,null,null,71,unsure,488,2020,gold,yes,no,unsure,"cobalt, lithium, graphite, silicon, gold, silver, aluminum, tantalum, tin, tungsten, copper, ",no
+Texas Instruments,United States,Texas,31000,154.57,1920000,2020,18560000,null,null,null,null,18.14,unsure,41800,2020,gold,yes,no,unsure,"cobalt, lithium, graphite, silicon, gold, tantalum, tin, tungsten",no
+Meituan,China,null,46662,27.77,10789.23,2020,unsure,null,null,null,null,unsure,unsure,unsure,null,unsure,no,no,unsure,null,no
+IBM,United States,New York,282100,127.00,"880,188",2020,unsure,2021,1.67,57,unsure,59.3,unsure,23000,2020,platinum,yes,no,unsure,"cobalt, lithium, silicon, tantalum, tin, tungsten, copper",no
+Salesforce,United States,California,73541,158.87,1096000,2021,492103.5319,2021,1.39,unsure,unsure,100,unsure,unsure,null,certified,yes,null,unsure,null,null
+SAP,Germany,null,107415,165.53,110000,2021,765000,null,unsure,unsure,unsure,100,unsure,261,2021,platinum,yes,unsure,null,null,null
+Intuit,United States,California,14200,100.08,23481,2020,unsure,2020,unsure,77,unsure,100,unsure,460.7781803,2020,gold,yes,yes,unsure,"gold, tantalum, tin, tungsten",unsure
+Sony,Japan,null,109700,45.00,1392868,2020,18742665,null,unsure,unsure,unsure,unsure,unsure,46594.823,2020,gold,yes,unsure,unsure,"cobalt, lithium, gold, tantalum, tin, tungsten",no
+Automatic Data Processing (ADP),United States,New Jersey,58000,86.41,137714,2020,unsure,null,1.69,unsure,unsure,0,unsure,unsure,null,certified,yes,unsure,unsure,null,yes
+Servicenow,United States,California,16881,85.55,24338,2020,unsure,2020,unsure,unsure,10022,100,unsure,unsure,null,unsure,yes,yes,null,null,null
+Applied Materials,United States,California,27000,94.31,151300,2020,2035000,2021,unsure,80,unsure,100,unsure,8286.9,2020,unsure,yes,unsure,unsure,"cobalt, lithium, gold, tantalum, tin, tungsten",no
+PayPal,United States,California,26500,94.13,24400,2021,293000,null,1.49,unsure,0,82,unsure,unsure,null,certified,yes,null,null,null,null
+Keyence,Japan,null,6602,91.86,3268,2020,unsure,null,unsure,unsure,unsure,unsure,unsure,136,2020,unsure,yes,unsure,unsure,"gold, tantalum, tin, tungsten",unsure
+Booking.com,Netherlands,null,19400,85.39,118746,2021,unsure,null,unsure,unsure,unsure,100,799808,unsure,null,unsure,yes,yes,null,null,null
+Jingdong Mall (JD.com),China,null,310000,149.30,2275935.69,2020,unsure,null,1.3,unsure,unsure,unsure,unsure,25768.96,2020,unsure,yes,some,unsure,null,unsure
+Analog Devices,United States,Massachusetts,24700,79.54,142209,2020,unsure,null,unsure,83,unsure,53,unsure,3042,2020,unsure,yes,no,unsure,"gold, tantalum, tin, tungsten, silicon wafers, liquefied gases, precious metals, ceramic",no
+Netflix,United States,California,12135,83.36,1540000,2021,unsure,2021,unsure,unsure,unsure,100,unsure,unsure,null,silver,yes,null,null,null,null
+Schneider Electric,France,null,166025,74.34,294051,2021,2072263,2020,null,null,null,50.6,156543450,136816,2021,platinum ,yes,some,unsure,"cobalt, lithium, graphite, silicon, gold, silver, aluminum, tantalum, tin, tungsten",yes
+Lam Research,United States,California,14100,67.33,113482,2020,1327458.28,2021,null,null,null,30,unsure,8306,2020,unsure,unsure,some,unsure,"cobalt, lithium, graphite, silicon, gold, silver, aluminum, tantalum, tin, tungsten, null, copper",no
+Tokyo Electron Limited,Japan,null,12742,29.00,169,2021,1195,null,null,null,null,50,unsure,14997,2021,gold,unsure,unsure,unsure,"cobalt, gold, tantalum, tin, tungsten, copper",no
+Equinix,United States,California,10944,59.54,2307600,2021,unsure,2020,1.48,55,unsure,80.1,3700000000,unsure,null,gold,yes,null,null,null,null
+Micron Technology,United States,Idaho,40000,75.86,7141289,2020,55195350,null,unsure,74.14,unsure,unsure,1000000000,202286.633,2020,gold,yes,unsure,unsure,"cobalt, gold, tantalum, tin, tungsten",yes
+Fiserv,United States,Wisconsin,44000,61.54,191405,2021,unsure,null,1.15,unsure,unsure,0.15,unsure,unsure,null,gold,yes,unsure,null,null,null
+Fidelity Investments,United States,Massachusetts,65000,85.90,10000,2020,unsure,null,1.3,90,unsure,> 0,unsure,unsure,null,no,no,null,null,null,null
+Activision Blizzard,United States,California,9500,60.78,unsure,null,unsure,null,unsure,unsure,unsure,> 0,unsure,unsure,null,certified,yes,unsure,unsure,"gold, tantalum, tin, tungsten",yes
+NetEase,China,null,18129,64.89,70633.03,2020,unsure,2020,1.3,unsure,unsure,37.4,unsure,6122,2020,unsure,unsure,unsure,null,null,null
+SK Hynix,South Korea,null,22254,56.08,99765,2020,95714000,null,unsure,unsure,unsure,unsure,unsure,572134,2020,unsure,yes,unsure,unsure,"gold, tantalum, tin, tungsten",no
+Block (Square),United States,California,8521,46.23,247900,2020,unsure,2020,unsure,<1,unsure,unsure,10000000,unsure,null,unsure,yes,unsure,unsure,"gold, tantalum, tin, tungsten",no
+Uber,United States,California,29300,45.64,3239552,2020,1013210,null,unsure,unsure,unsure,32,800000000,unsure,null,gold,yes,no,null,null,null
+Palo Alto Networks,United States,California,11098,42.98,unsure,null,unsure,null,null,null,null,10,unsure,unsure,null,gold,unsure,no,null,null,null
+Atlassian,Australia,null,5752,23.99,70207,2021,unsure,null,unsure,unsure,unsure,100,unsure,124,2021,unsure,yes,unsure,unsure,null,null
+KLA Corporation,United States,California,11300,50.07,4834000,2020,unsure,2021,null,null,null,46,unsure,unsure,null,gold,unsure,unsure,unsure,"cobalt, lithium, graphite, silicon, gold, silver, aluminum, tantalum, tin, tungsten, copper, cadmium",unsure
+"Marvell Technology, Inc.",United States,Delaware,6729,46.80,11248370,2021,9190000,null,null,null,null,1.3,unsure,unsure,null,gold,unsure,no,unsure,"cobalt, lithium, silicon, gold, tantalum, tungsten, nickel",no
+Foxconn,Taiwan,,1290000,"5,990.00",5519742,2020,unsure,,null,unsure,null,12.45,unsure,unsure,null,unsure,unsure,some,unsure,"cobalt, lithium, graphite, silicon, gold, silver, aluminum, tantalum, tin, tungsten",yes
